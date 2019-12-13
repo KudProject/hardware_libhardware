@@ -18,7 +18,7 @@
 
 // #define LOG_NDEBUG 0
 #define LOG_TAG "RequestTracker"
-#include <cutils/log.h>
+#include <log/log.h>
 
 namespace default_camera_hal {
 

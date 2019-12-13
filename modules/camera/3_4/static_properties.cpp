@@ -18,7 +18,7 @@
 
 // #define LOG_NDEBUG 0
 #define LOG_TAG "StaticProperties"
-#include <cutils/log.h>
+#include <log/log.h>
 #include <hardware/camera3.h>
 #include <system/camera.h>
 

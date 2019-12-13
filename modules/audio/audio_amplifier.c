@@ -21,7 +21,7 @@
 #include <stdlib.h>
 #include <sys/types.h>
 
-#include <cutils/log.h>
+#include <log/log.h>
 #include <cutils/str_parms.h>
 
 #include <hardware/audio_amplifier.h>

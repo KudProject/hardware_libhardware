@@ -18,7 +18,7 @@
 
 // #define LOG_NDEBUG 0
 #define LOG_TAG "MetadataReader"
-#include <cutils/log.h>
+#include <log/log.h>
 #include <system/camera.h>
 
 #include "metadata_common.h"

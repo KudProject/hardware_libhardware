@@ -18,7 +18,7 @@
 #define V4L2_CAMERA_HAL_COMMON_H_
 
 // #define LOG_NDEBUG 0
-#include <cutils/log.h>
+#include <log/log.h>
 
 #define LOG_TAG "V4L2CameraHAL"
 
